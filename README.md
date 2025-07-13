@@ -14,6 +14,7 @@ A cool console for true metalheads
 11. **amplitube**: opens Amplitube 5
 12. **open flprojects**: opens folder with projects from FL Studio
 13. **lang (en/ru)**: changes language to English or Russian
+14. **open (name of program or folder)**: opens specified program or folder
 ## More commands will be added soon!
 ### If you want, you can help me with adding more commands or improving this console :)
 
@@ -31,5 +32,6 @@ A cool console for true metalheads
 11. **amplitube**: открывает Amplitube 5
 12. **open flprojects**: открывает папку с проектами из FL Studio
 13. **lang (en/ru)**: меняет язык консоли на русский или английский
+14. **open (название программы или папки)**: открывает указанную программу или папку
 ## Больше команд будут добавлены в скором времени!
 ### Если вы хотите, вы можете помочь мне путём добавления новых команд или улучшения этой консоли :)
