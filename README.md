@@ -13,6 +13,7 @@ A cool console for true metalheads
 10. **unity**: opens Unity Hub
 11. **amplitube**: opens Amplitube 5
 12. **open flprojects**: opens folder with projects from FL Studio
+13. **lang (en/ru)**: changes language to English or Russian
 ## More commands will be added soon!
 ### If you want, you can help me with adding more commands or improving this console :)
 
@@ -29,5 +30,6 @@ A cool console for true metalheads
 10. **unity**: открывает Unity Hub
 11. **amplitube**: открывает Amplitube 5
 12. **open flprojects**: открывает папку с проектами из FL Studio
+13. **lang (en/ru)**: меняет язык консоли на русский или английский
 ## Больше команд будут добавлены в скором времени!
 ### Если вы хотите, вы можете помочь мне путём добавления новых команд или улучшения этой консоли :)
