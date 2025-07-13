@@ -15,3 +15,19 @@ A cool console for true metalheads
 12. **open flprojects**: opens folder with projects from FL Studio
 ## More commands will be added soon!
 ### If you want, you can help me with adding more commands or improving this console :)
+
+# Список команд (Руский)
+1. **help**: выводит список основных команд  
+2. **hello**: говорит "привет"  
+3. **time**: выводит текущую дату и время  
+4. **clear**: очищает консоль
+5. **exit**: выход из консоли  
+6. **notepad**: открывает блокнот  
+7. **notepad++**: открывает notepad++  
+8. **flstudio**: открывает FL Studio  
+9. **vscode**: открывает Visual Studio Code  
+10. **unity**: открывает Unity Hub
+11. **amplitube**: открывает Amplitube 5
+12. **open flprojects**: открывает папку с проектами из FL Studio
+## Больше команд будут добавлены в скором времени!
+### Если вы хотите, вы можете помочь мне путём добавления новых команд или улучшения этой консоли :)
