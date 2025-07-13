@@ -133,6 +133,15 @@ namespace MetalHeadShell {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Играй отлично, кодь мощно, делай что нравится, никогда не сдавайся..
+        /// </summary>
+        internal static string motivation {
+            get {
+                return ResourceManager.GetString("motivation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Аткрываю блокнот....
         /// </summary>
         internal static string notepad {

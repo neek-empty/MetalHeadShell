@@ -75,6 +75,9 @@ namespace MetalHeadShell
 						case "exit":
 							Console.WriteLine(resMan.GetString("exit", currentCulture));
 							return;
+						case "motq":
+                            Console.WriteLine(resMan.GetString("motivation", currentCulture));
+							break;
 						default:
 							Console.WriteLine(resMan.GetString("unknowncommand", currentCulture));
 							break;

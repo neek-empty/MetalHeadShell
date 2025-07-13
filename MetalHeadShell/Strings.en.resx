@@ -141,6 +141,9 @@
   <data name="LangSet" xml:space="preserve">
     <value>Language set to English</value>
   </data>
+  <data name="motivation" xml:space="preserve">
+    <value>Play great, code powerfully, do what you love, never give up.</value>
+  </data>
   <data name="notepad" xml:space="preserve">
     <value>Opening a notepad...</value>
   </data>
