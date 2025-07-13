@@ -1,0 +1,7 @@
+D:\Codes\Projects\MetalHeadShell\MetalHeadShell\obj\Debug\MetalHeadShell.csproj.AssemblyReference.cache
+D:\Codes\Projects\MetalHeadShell\MetalHeadShell\obj\Debug\MetalHeadShell.csproj.CoreCompileInputs.cache
+D:\Codes\Projects\MetalHeadShell\MetalHeadShell\bin\Debug\MetalHeadShell.exe.config
+D:\Codes\Projects\MetalHeadShell\MetalHeadShell\bin\Debug\MetalHeadShell.exe
+D:\Codes\Projects\MetalHeadShell\MetalHeadShell\bin\Debug\MetalHeadShell.pdb
+D:\Codes\Projects\MetalHeadShell\MetalHeadShell\obj\Debug\MetalHeadShell.exe
+D:\Codes\Projects\MetalHeadShell\MetalHeadShell\obj\Debug\MetalHeadShell.pdb

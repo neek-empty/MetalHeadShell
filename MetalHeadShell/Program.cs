@@ -25,6 +25,15 @@ namespace MetalHeadShell
 
                 switch (input.ToLower())
                 {
+                    case "help":
+                        Console.WriteLine("ПЕРВАЯ ПОМОЩЬ RIGHT NOW");
+                        Console.WriteLine("ПОЛНЫЙ СПИСОК КОМАНД ДОСТУПЕН В README.MD");
+                        Console.WriteLine("1.help: то что ты сейчас видишь");
+                        Console.WriteLine("2.hello: поздороваться с тобой");
+                        Console.WriteLine("3.time: подсказать время и дату");
+                        Console.WriteLine("4.clear: очистить констоль");
+                        Console.WriteLine("5.exit: выйти из этого пиздеца (в окно)");
+                        break;
                     case "hello":
                         Console.WriteLine("Здарова, братюня!");
                         break;
@@ -37,6 +46,10 @@ namespace MetalHeadShell
                     case "notepad":
                         Console.WriteLine("Аткрываю блокнот...");
                         Process.Start("notepad.exe");
+                        break;
+                    case "notepad++":
+                        Console.WriteLine("Аткрываю notepad++");
+                        Process.Start(@"C:\Program Files\Notepad++\notepad++.exe");
                         break;
                     case "flstudio":
                         Console.WriteLine("Делай музло, брат");
