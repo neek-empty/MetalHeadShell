@@ -16,7 +16,7 @@ A cool console for true metalheads
 ## More commands will be added soon!
 ### If you want, you can help me with adding more commands or improving this console :)
 
-# Список команд (Руский)
+# Список команд (Русский)
 1. **help**: выводит список основных команд  
 2. **hello**: говорит "привет"  
 3. **time**: выводит текущую дату и время  
