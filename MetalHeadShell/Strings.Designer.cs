@@ -70,6 +70,15 @@ namespace MetalHeadShell {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Ошибка при открытии программы или папки. Проверьте путь в коде..
+        /// </summary>
+        internal static string errorwithopening {
+            get {
+                return ResourceManager.GetString("errorwithopening", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Пока, братишка.
         /// </summary>
         internal static string exit {
@@ -138,6 +147,24 @@ namespace MetalHeadShell {
         internal static string notepad__ {
             get {
                 return ResourceManager.GetString("notepad__", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Открываю.
+        /// </summary>
+        internal static string openingfile {
+            get {
+                return ResourceManager.GetString("openingfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Использование: open &lt;программа или папка&gt; (например: open vscode).
+        /// </summary>
+        internal static string openusing {
+            get {
+                return ResourceManager.GetString("openusing", resourceCulture);
             }
         }
         

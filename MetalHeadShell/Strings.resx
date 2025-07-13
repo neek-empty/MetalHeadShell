@@ -120,6 +120,9 @@
   <data name="amplitube" xml:space="preserve">
     <value>Аткрываю Amplitube 5...</value>
   </data>
+  <data name="errorwithopening" xml:space="preserve">
+    <value>Ошибка при открытии программы или папки. Проверьте путь в коде.</value>
+  </data>
   <data name="exit" xml:space="preserve">
     <value>Пока, братишка</value>
   </data>
@@ -143,6 +146,12 @@
   </data>
   <data name="notepad__" xml:space="preserve">
     <value>Аткрываю notepad++...</value>
+  </data>
+  <data name="openingfile" xml:space="preserve">
+    <value>Открываю</value>
+  </data>
+  <data name="openusing" xml:space="preserve">
+    <value>Использование: open &lt;программа или папка&gt; (например: open vscode)</value>
   </data>
   <data name="unity" xml:space="preserve">
     <value>Актрываю Unity Hub...</value>
