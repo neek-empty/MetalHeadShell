@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Codes\\Projects\\MetalHeadShell\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3324F0E-F34F-48FD-B6C2-22CFEF05003C}|MetalHeadShell\\MetalHeadShell.csproj|D:\\Codes\\Projects\\MetalHeadShell\\metalheadshell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3324F0E-F34F-48FD-B6C2-22CFEF05003C}|MetalHeadShell\\MetalHeadShell.csproj|d:\\codes\\projects\\metalheadshell\\metalheadshell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3324F0E-F34F-48FD-B6C2-22CFEF05003C}|MetalHeadShell\\MetalHeadShell.csproj|solutionrelative:metalheadshell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3324F0E-F34F-48FD-B6C2-22CFEF05003C}|MetalHeadShell\\MetalHeadShell.csproj|d:\\codes\\projects\\metalheadshell\\metalheadshell\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{A3324F0E-F34F-48FD-B6C2-22CFEF05003C}|MetalHeadShell\\MetalHeadShell.csproj|D:\\Codes\\Projects\\MetalHeadShell\\metalheadshell\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{A3324F0E-F34F-48FD-B6C2-22CFEF05003C}|MetalHeadShell\\MetalHeadShell.csproj|solutionrelative:metalheadshell\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
@@ -29,8 +29,7 @@
               "ToolTip": "D:\\Codes\\Projects\\MetalHeadShell\\MetalHeadShell\\Strings.resx",
               "RelativeToolTip": "MetalHeadShell\\Strings.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-13T11:17:01.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T11:17:01.987Z"
             },
             {
               "$type": "Document",
@@ -40,7 +39,7 @@
               "RelativeDocumentMoniker": "MetalHeadShell\\Program.cs",
               "ToolTip": "D:\\Codes\\Projects\\MetalHeadShell\\MetalHeadShell\\Program.cs",
               "RelativeToolTip": "MetalHeadShell\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEsAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAJIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-13T10:17:45.423Z",
               "EditorCaption": ""

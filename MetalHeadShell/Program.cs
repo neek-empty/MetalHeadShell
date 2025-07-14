@@ -22,6 +22,10 @@ namespace MetalHeadShell
 
 			Console.WriteLine("Добро пожаловать в MetalHeadShell");
 			Console.WriteLine("Напиши help чтобы получить первую помощь или clear чтобы нахуй всё очистить");
+            Console.WriteLine("");
+            Console.WriteLine("Welcome to MetalHeadShell");
+            Console.WriteLine("Type help to get help or clear to clean up this fucking console");
+            Console.WriteLine("");
 			Console.WriteLine("To change language to English type: lang en");
 			Console.WriteLine("Чтобы сменить язык на русский, напиши: lang ru");
 
@@ -107,6 +111,45 @@ namespace MetalHeadShell
 							break;
 						case "amplitube":
 							path = @"C:\Program Files\IK Multimedia\AmpliTube 5\AmpliTube 5.exe";
+							break;
+						case "guitarpro":
+							path = @"C:\Program Files\Arobas Music\Guitar Pro 8\GuitarPro.exe";
+							break;
+                        case "steam":
+							path = @"D:\Programs\Steam\steam.exe";
+							break;
+						case "vs":
+							path = @"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv/exe";
+							break;
+						case "foobar":
+							path = @"C:\Program Files\foobar2000\foobar2000.exe";
+							break;
+						case "git":
+							path = @"C:\Program Files\Git\git-bash.exe";
+							break;
+                        case "firefox":
+							path = @"C:\Program Files\Mozilla Firefox\firefox.exe";
+							break;
+						case "video":
+							path = @"D:\Downloads\Video";
+							break;
+                        case "downloads":
+							path = @"C:\Users\Maksim Abdulin\Downloads";
+							break;
+						case "downloadsd":
+							path = @"D:\Downloads";
+							break;
+						case "codes":
+							path = @"D:\Codes";
+							break;
+						case "projects":
+							path = @"D:\Codes\Projects";
+							break;
+						case "games":
+							path = @"D:\Games";
+							break;
+                        case "documents":
+							path = @"D:\Documents";
 							break;
 						case "flprojects":
 							path = @"D:\Documents\fl_projects";
